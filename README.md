@@ -22,4 +22,4 @@ To store those signals using TCP, and the weights themselves, a storage system w
 
 - [YouTube](https://www.youtube.com/watch?v=-BP7DhHTU-I&pp=ygUWbWluZWNyYWZ0IGluIG1pbmVjcmFmdA%3D%3D)
 
-**PS:** This is a future repository for this project. Star this for further updates.
+
